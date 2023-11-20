@@ -12,7 +12,7 @@ This project provides a user-friendly webpage that allows users to shorten URLs 
 
 Include a link to a live demo if you have deployed your webpage.
 
-[Demo Link](www.facebook.com)
+[Demo Link](https://dimexofafrika.github.io/linkshortner/)
 
 ## Features
 
